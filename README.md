@@ -36,7 +36,7 @@ Follow these steps to set up the repository on your local machine:
 
 ```bash
 # Clone this repository
-git clone https://github.com/your-username/javascript-from-scratch-to-mastery.git  
+git clone https://github.com/mistersandhu/js-mastery  
 
 # Navigate into the project directory
 cd javascript-from-scratch-to-mastery  
