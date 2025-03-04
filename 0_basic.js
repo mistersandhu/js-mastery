@@ -10,3 +10,4 @@ console.log("Hello World")
 
 // where console.log is used to show the output on the console.
 // Run this file using node js => node <filename> in the terminal
+// And that's it.
